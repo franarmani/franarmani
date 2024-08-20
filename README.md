@@ -1,23 +1,29 @@
+
+
 <h1 align="center">Hi 👋, I'm Franco Tomas Armani <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Front-End and Back-End Developer, also exploring Mobile Development, from Argentina</h3>
-🔭 I’m currently working on a website for SERVIN INGENIERIA S.A., and I also maintain my own website for movies, series, and TV channels, along with a website for my gym group, TEAM ARMANI.
 
-🌱 I’m currently learning React, Angular, Next.js, and Mobile Development.
+- 🔭 I’m currently working on **a website for SERVIN INGENIERIA S.A.**, and I also maintain my own **website for movies, series, and TV channels**, along with a **website for my gym group, TEAM ARMANI**.
 
-👯 I’m looking to collaborate on projects related to health, environmental aid, and technology companies.
+- 🌱 I’m currently learning **React, Angular, Next.js, and Mobile Development**.
 
-📫 How to reach me: francoarmani107@gmail.com
+- 👯 I’m looking to collaborate on **projects related to health, environmental aid, and technology companies**.
 
-⚡ What I like to do: In my free time, I enjoy studying new technologies, playing sports, and competing as a member of the national Kickboxing team. I am also an instructor in Kickboxing.
+- 📫 How to reach me: **francoarmani107@gmail.com**
+
+- ⚡ What I like to do: **In my free time, I enjoy studying new technologies, playing sports, and competing as a member of the national Kickboxing team. I am also an instructor in Kickboxing.**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-armani-993a36234/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fran.armani_/?igsh=MW9hcGJxbnY0dTRkOA%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francoarmani107@gmail.com)
+  
 </div>
+
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -47,10 +53,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
+
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=franarmani&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franarmani&theme=react&layout=compact" />
 </p>
-FrancoArmani
+
+------
+
+[FrancoArmani](https://github.com/franarmani)
 
 Last Edited on: 20/08/2024
+
